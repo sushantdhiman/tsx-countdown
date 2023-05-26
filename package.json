@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "tsx index.ts"
+    "test": "bash test.sh"
   },
   "keywords": [],
   "author": "",
